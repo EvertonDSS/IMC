@@ -1,0 +1,11 @@
+C:\Users\csharp\Documents\windosform\IMCForm\IMCForm\obj\Debug\IMCForm.csproj.AssemblyReference.cache
+C:\Users\csharp\Documents\windosform\IMCForm\IMCForm\obj\Debug\IMCForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\csharp\Documents\windosform\IMCForm\IMCForm\obj\Debug\IMCForm.Form1.resources
+C:\Users\csharp\Documents\windosform\IMCForm\IMCForm\obj\Debug\IMCForm.Properties.Resources.resources
+C:\Users\csharp\Documents\windosform\IMCForm\IMCForm\obj\Debug\IMCForm.csproj.GenerateResource.cache
+C:\Users\csharp\Documents\windosform\IMCForm\IMCForm\obj\Debug\IMCForm.csproj.CoreCompileInputs.cache
+C:\Users\csharp\Documents\windosform\IMCForm\IMCForm\bin\Debug\IMCForm.exe.config
+C:\Users\csharp\Documents\windosform\IMCForm\IMCForm\bin\Debug\IMCForm.exe
+C:\Users\csharp\Documents\windosform\IMCForm\IMCForm\bin\Debug\IMCForm.pdb
+C:\Users\csharp\Documents\windosform\IMCForm\IMCForm\obj\Debug\IMCForm.exe
+C:\Users\csharp\Documents\windosform\IMCForm\IMCForm\obj\Debug\IMCForm.pdb
